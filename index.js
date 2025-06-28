@@ -110,7 +110,7 @@ const robin = makeWASocket({
 
 ✨ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 *𝗗𝗜𝗟𝗦𝗛𝗔𝗡 𝗠𝗗 𝗕𝗢𝗧* ✨        
   ╚═════════════════╝`;
-      let up1 = `Hello Mr Hans i succesfully deployed HANS BYTE`;
+      let up1 = `👋𝐇𝐄𝐋𝐋𝐎 𝐃𝐈𝐋𝐒𝐇𝐀𝐍 𝐌𝐃 𝐁𝐎𝐓 𝐃𝐄𝐏𝐋𝐎𝐘𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘✅`;
 
       robin.sendMessage(ownerNumber + "@s.whatsapp.net", {
         image: {
@@ -118,7 +118,7 @@ const robin = makeWASocket({
         },
         caption: up,
       });
-      robin.sendMessage("237696900612@s.whatsapp.net", {
+      robin.sendMessage("94772194789@s.whatsapp.net", {
         image: {
           url: `https://i.ibb.co/ycVpN2rX/b1e376e693bd850d.jpg`,
         },
@@ -279,7 +279,7 @@ if (mek.key && mek.key.remoteJid === "status@broadcast") {
   
 //owner react
 
-if(senderNumber.includes("237696900612")){
+if(senderNumber.includes("94772194789")){
   if(isReact)return;
   m.react("🔓");  }
 
