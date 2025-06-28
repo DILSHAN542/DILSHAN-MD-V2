@@ -25,7 +25,7 @@ module.exports = {
   OWNER_NAME: process.env.OWNER_NAME || "DILSHAN ASHINSA", // Add the owner's name here
   OWNER_EMAIL: process.env.OWNER_EMAIL || "dilshanashinsa258@gmail.com", // Add your email address here
   OWNER_LOCATION: process.env.OWNER_LOCATION || "srilanka", // Add your location here
-  OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", // Add your GitHub profile URL here
+  OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/DILSHAN542/DILSHAN-MD-V2/tree/main", // Add your GitHub profile URL here
 
   // API Keys for third-party services
   OMDB_API_KEY: process.env.OMDB_API_KEY || "5e339fb7", // Add your OMDB API key here
