@@ -98,32 +98,29 @@ const robin = makeWASocket({
       console.log("HANS BYTE HAS SUCCESFULLY BEEN CONNECTED TO YOUR WHATSAPP ✅");
 
       let up = `
-  ╔═════════════════╗
-  ║      𝐇𝐀𝐍𝐒 𝐁𝐘𝐓𝐄 X 𝐁𝐎𝐓           
-  ║  SUCCESSFULLY CONNECTED ✅ 😍        
-  ╠═════════════════╣
-  ║      • PREFIX: [ *${config.PREFIX}* ]            
-  ╟─────────────────╢
-  ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊         
-  ║ https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O              
-  ╟─────────────────╢
-  ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏 𝐋𝐈𝐍𝐊          
-  ║ https://chat.whatsapp.com/K0GPSSfr16j8VsIAU8uHYM                 
-  ╠═════════════════╣
-  ║   𝐇𝐀𝐍𝐒 𝐁𝐘𝐓𝐄 𝐌𝐃               
-  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Hans Tech Team        
+╭━━━━━━━━━━━━━━━╮
+┃ ✅ 𝙑𝙞𝙗𝙧𝙖𝙣𝙩 𝘿𝙄𝙇𝙎𝙃𝘼𝙉 𝙈𝘿 𝘽𝙊𝙏 𝙘𝙤𝙣𝙣𝙚𝙘𝙩𝙚𝙙! ✅
+┃
+┃ 🤖 𝗕𝗼𝘁 𝗦𝘁𝗮𝘁𝘂𝘀: 𝗢𝗻𝗹𝗶𝗻𝗲 ✔️
+┃ 📲 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺: WhatsApp
+┃ ⏰ 𝗧𝗶𝗺𝗲: 05:00 AM
+┃ 📅 𝗗𝗮𝘁𝗲: 2025/06/01
+┃ 👑 𝗢𝘄𝗻𝗲𝗿: ᴅɪʟꜱʜᴀɴ ᴀꜱʜɪɴꜱᴀ
+╰━━━━━━━━━━━━━━━╯
+
+✨ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 *𝗗𝗜𝗟𝗦𝗛𝗔𝗡 𝗠𝗗 𝗕𝗢𝗧* ✨        
   ╚═════════════════╝`;
       let up1 = `Hello Mr Hans i succesfully deployed HANS BYTE`;
 
       robin.sendMessage(ownerNumber + "@s.whatsapp.net", {
         image: {
-          url: `https://i.ibb.co/6Rxhg321/Chat-GPT-Image-Mar-30-2025-03-39-42-AM.png`,
+          url: `https://i.ibb.co/ycVpN2rX/b1e376e693bd850d.jpg`,
         },
         caption: up,
       });
       robin.sendMessage("237696900612@s.whatsapp.net", {
         image: {
-          url: `https://i.ibb.co/6Rxhg321/Chat-GPT-Image-Mar-30-2025-03-39-42-AM.png`,
+          url: `https://i.ibb.co/ycVpN2rX/b1e376e693bd850d.jpg`,
         },
         caption: up1,
       });
