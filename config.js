@@ -51,7 +51,7 @@ module.exports = {
   ANTI_LINK: process.env.ANTI_LINK || "false",
   ANTI_DELETE: process.env.ANTI_DELETE || "true",
   AUTO_TYPING: process.env.AUTO_TYPING || "false",
-  ALWAYSONLINE: process.env.ALWAYSONLINE || "false",
+  ALWAYSONLINE: process.env.ALWAYSONLINE || "true",
   AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
   AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
   AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
