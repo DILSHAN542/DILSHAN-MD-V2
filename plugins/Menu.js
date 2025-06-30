@@ -14,35 +14,28 @@ cmd({
   reply: _0x4cf25d
 }) => {
   try {
-    const _0x3a9262 = `🔥𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝘿𝙄𝙇𝙎𝙃𝘼𝙉 𝙈𝘿 𝘽𝙊𝙏 𝙫1🔥
+    const _0x3a9262 = `
+╔═━「 💠 𝐃𝐈𝐋𝐒𝐇𝐀𝐍 𝐌𝐃 𝐕1 💠 」━═╗                                                   
+║ ⚙️ Version    : 2.0.1 Beta         
+║ 🌐 Platform   : Replit 
+║ 🧠 Type       : Node.js             
+║ 🔰 Mode       : Public              
+║ 📎 Prefix     : [.]                 
+║ 👑 Owner      : Dilshan Ashinsa     
+╚══════════════════➤
 
-╔═━「 💠 𝐃𝐈𝐋𝐒𝐇𝐀𝐍 𝐌𝐃 𝐕1 💠 」━═╗
-┃                                   
-┃ 👑 ᴏᴡɴᴇʀ      : ᴅɪʟꜱʜᴀɴ ᴀꜱʜɪɴꜱᴀ    
-┃ 🌐 ᴘʟᴀᴛғᴏʀᴍ   : ʀᴇᴘʟɪᴛ | ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ 
-┃ 🧠 ᴛʏᴘᴇ       : ɴᴏᴅᴇ.ᴊꜱ                
-┃ 🔰 ᴍᴏᴅᴇ       : ᴘᴜʙʟɪᴄ                 
-┃ 📎 ᴘʀᴇғɪx     : [.]
-┃ ⚙️ ᴠᴇʀꜱɪᴏɴ    : 2.0.1 ʙᴇᴛᴀ             
-┃                                   
-╚═════════════════════
-
-> ┃❄𝗣𝗹𝗲𝗮𝘀𝗲 𝗦𝗲𝗹𝗲𝗰𝘁 𝗬𝗼𝘂𝗿 𝗡𝘂𝗺𝗯𝗲𝗿❄┃
-❮❮❮━━━━━━━━━━━━━━━━━━━━━━❯❯❯
-
-> *╭────────────●●►*
-  *│1. DOWNLOAD MENU*📥
-  *│2. SEARCH MENU*📚
-  *│3. AI MENU*🤖
-  *│4. OWNER MENU*🤴
-  *│5. GROUP MENU*🃏
-  *│6. INFO MENU*🪂
-  *│7. CONVERTER MENU*🔮
-  *│8. FAN MENU*🪀
-  *│9. WALLPAPERS MENU*🖼
-  *│10. OTHER MENU*
-> *╰────────────●●►*
- 
+╔══✦『 📜 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓 』✦══╗
+┃ ❮❮ 1️⃣ ❯❯ ⬇️   ▸  *Download Menu*         
+┃ ❮❮ 2️⃣ ❯❯ 👥   ▸  *Group Menu*            
+┃ ❮❮ 3️⃣ ❯❯ 😄   ▸  *Fun Menu*              
+┃ ❮❮ 4️⃣ ❯❯ 👑   ▸  *Owner Menu*            
+┃ ❮❮ 5️⃣ ❯❯ 🤖   ▸  *AI Menu*               
+┃ ❮❮ 6️⃣ ❯❯ 🎎   ▸  *Anime Menu*            
+┃ ❮❮ 7️⃣ ❯❯ 🔄   ▸  *Convert Menu*          
+┃ ❮❮ 8️⃣ ❯❯ 📌   ▸  *Other Menu*            
+┃ ❮❮ 9️⃣ ❯❯ 💞   ▸  *Reactions Menu*        
+┃ ❮❮ 🔟 ❯❯ 🏠   ▸  *Main Menu*             
+╚════════════════➤►*
  
 > ©𝐏𝐎𝐖𝐄𝐑𝐃 𝐁𝐘 𝐃𝐈𝐋𝐒𝐇𝐀𝐍 𝐌𝐃`;
     const _0x18e40d = {
