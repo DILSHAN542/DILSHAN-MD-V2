@@ -22,7 +22,7 @@ function delay(ms) {
 async function sendAnimation(conn, m, ping, uptime) {
   const frames = [
     `⚡ *Ping:* ${ping.toFixed(4)} m/s\n⏱️ *Uptime:* ${uptime}\n🤖 *Bot:* ${botname}`,
-    "*HANS BYTE MD*",
+    "*DILSHAN MD v1*",
     "FOLLOW CHANNEL"
   ];
   
@@ -33,8 +33,8 @@ async function sendAnimation(conn, m, ping, uptime) {
         forwardingScore: 1000,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363292876277898@newsletter',
-          newsletterName: "𝐇𝐀𝐍𝐒 𝐁𝐘𝐓𝐄 𝐌𝐃",
+          newsletterJid: '120363419308807922@newsletter',
+          newsletterName: "𝐃𝐈𝐋𝐒𝐇𝐀𝐍 𝐌𝐃 𝐯1",
           serverMessageId: 143,
         },
       }
@@ -64,8 +64,8 @@ cmd({
         forwardingScore: 1000,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363292876277898@newsletter',
-          newsletterName: "𝐇𝐀𝐍𝐒 𝐁𝐘𝐓𝐄 𝐌𝐃",
+          newsletterJid: '120363419308807922@newsletter',
+          newsletterName: "𝐃𝐈𝐋𝐒𝐇𝐀𝐍 𝐌𝐃 𝐯1",
           serverMessageId: 143,
         }
       }
