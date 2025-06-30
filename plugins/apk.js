@@ -23,19 +23,20 @@ async (conn, mek, m, { from, quoted, q, reply, sender }) => {
             forwardingScore: 1000,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363292876277898@newsletter',
-                newsletterName: "𝐇𝐀𝐍𝐒 𝐁𝐘𝐓𝐄 𝐌𝐃",
+                newsletterJid: '120363419308807922@newsletter',
+                newsletterName: "𝐃𝐈𝐋𝐒𝐇𝐀𝐍 𝐌𝐃 𝐯1",
                 serverMessageId: 143,
             },
         };
 
         let desc = `
-╔══✦❘༻ *HANS BYTE* ༺❘✦══╗
+╔══✦❘༻ ❖𝐃𝐈𝐋𝐒𝐇𝐀𝐍 𝐌𝐃 𝐯1❖ ༺❘✦══╗
 ┃ 📂 *𝘼𝙥𝙥 𝙉𝙖𝙢𝙚:*   ${data.apk_name} 
 ╰─━──━──━──━──━──━───━─╯
 ┃ 📥 *𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙 𝙨𝙩𝙖𝙧𝙩𝙚𝙙...*
 ╰──━─════════════════⊷❍
-*🔰 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗛𝗮𝗻𝘀 𝗕𝘆𝘁𝗲 𝗠𝗗* ⚡`;
+
+✺ᴘᴏᴡᴇʀᴅ ʙʏ ᴅɪʟꜱʜᴀɴ ᴍᴅ ᴠ1✺`;
 
         await conn.sendMessage(
             from, 
@@ -53,7 +54,7 @@ async (conn, mek, m, { from, quoted, q, reply, sender }) => {
                 document: { url: data.download_link }, 
                 mimetype: "application/vnd.android.package-archive", 
                 fileName: `『 ${data.apk_name} 』.apk`, 
-                caption: "✅ *𝗔𝗣𝗞 𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆!* ✅\n🔰 *𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗛𝗮𝗻𝘀 𝗕𝘆𝘁𝗲 𝗠𝗗* ⚡",
+                caption: "✅ *𝗔𝗣𝗞 𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆!* ✅\n> ✺ᴘᴏᴡᴇʀᴅ ʙʏ ᴅɪʟꜱʜᴀɴ ᴍᴅ ᴠ1",
                 contextInfo: newsletterContext
             }, 
             { quoted: mek }
